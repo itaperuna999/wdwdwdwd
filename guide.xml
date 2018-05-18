@@ -1,0 +1,1131 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="TC PREMIUM">
+    <display-name lang="pt">TC PREMIUM</display-name>
+    <url>http://www.tvmagazine.com.br</url>
+  </channel>
+  <channel id="TC PREMIUM FULL HD">
+    <display-name lang="pt">TC PREMIUM FULL HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TC PREMIUM HD">
+    <display-name lang="pt">TC PREMIUM HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TC ACTION">
+    <display-name lang="pt">TC ACTION</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TC ACTION FULL HD">
+    <display-name lang="pt">TC ACTION FULL HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TC ACTION HD">
+    <display-name lang="es">TC ACTION HD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <channel id="TC CULT">
+    <display-name lang="pt">TC CULT</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TC CULT FULL HD">
+    <display-name lang="pt">TC CULT FULL HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TC CULT HD">
+    <display-name lang="es">TC CULT HD</display-name>
+    <url>http://www.mi.tv</url>
+  </channel>
+  <programme start="20180518163000 -0300" stop="20180518182000 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">A Comédia Divina</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20180518182000 -0300" stop="20180518202000 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Corra!</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20180518202000 -0300" stop="20180518220000 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Convidados Sem Honra</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20180518220000 -0300" stop="20180518235000 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Goosebumps: Monstros e Arrepios</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20180518235000 -0300" stop="20180519000000 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Lou</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20180519000000 -0300" stop="20180519015000 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Carros 3</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20180519015000 -0300" stop="20180519032500 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Na Balada</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180519032500 -0300" stop="20180519050000 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Minha Festa de 30 Anos</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20180519050000 -0300" stop="20180519064500 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Não Conte para Ela</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20180519064500 -0300" stop="20180519082000 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Aplicativo da Morte</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20180519082000 -0300" stop="20180519101500 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Hampstead: Nunca é Tarde para Amar</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180519101500 -0300" stop="20180519120000 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">A Era do Gelo: O Big Bang</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20180519120000 -0300" stop="20180519135500 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">A Qualquer Custo</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20180519135500 -0300" stop="20180519160000 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">O Bom Gigante Amigo</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20180519160000 -0300" stop="20180519174500 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">A Origem do Dragão</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180519174500 -0300" stop="20180519195500 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Baywatch: S.O.S. Malibu</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20180519195500 -0300" stop="20180519200500 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Trabalho Interno</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20180519200500 -0300" stop="20180519220000 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Moana: Um Mar de Aventuras</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20180519220000 -0300" stop="20180519235500 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">O Livro de Henry</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180519235500 -0300" stop="20180520014500 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Assassino a Preço Fixo 2: A Ressurreição</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180520014500 -0300" stop="20180520032000 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Os Condenados 2</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180520032000 -0300" stop="20180520045000 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Harbinger Down - Terror no Gelo</title>
+    <category lang="pt">Filme/Terror</category>
+  </programme>
+  <programme start="20180520045000 -0300" stop="20180520063000 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Contagem Regressiva (2016)</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180520063000 -0300" stop="20180520081000 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Fascinação Mortal 2</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20180520081000 -0300" stop="20180520095000 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Os Últimos Sobreviventes</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180520095000 -0300" stop="20180520115000 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Pelé: O Nascimento de uma Lenda</title>
+    <category lang="pt">Filme/Biografia</category>
+  </programme>
+  <programme start="20180520115000 -0300" stop="20180520142000 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Um Limite Entre Nós</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180520142000 -0300" stop="20180520162500 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Vida Dupla</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20180520162500 -0300" stop="20180520182000 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Goosebumps: Monstros e Arrepios</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20180520182000 -0300" stop="20180520200000 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Duas de Mim</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20180520200000 -0300" stop="20180520215000 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">O Poderoso Chefinho</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20180520215000 -0300" stop="20180520220000 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Lou</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20180520220000 -0300" stop="20180520235000 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Carros 3</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20180520235000 -0300" stop="20180521014500 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Monster Trucks</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20180521014500 -0300" stop="20180521034000 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">A Qualquer Custo</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20180521034000 -0300" stop="20180521054000 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Mente Criminosa</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180521054000 -0300" stop="20180521072000 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Mate o Rei</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180521072000 -0300" stop="20180521085500 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Troca Fatal</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180521085500 -0300" stop="20180521104500 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">O Preço da Liberdade</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180521104500 -0300" stop="20180521122500 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Andron: Labirinto Negro</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180521122500 -0300" stop="20180521123500 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Trabalho Interno</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20180521123500 -0300" stop="20180521142500 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Moana: Um Mar de Aventuras</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20180521142500 -0300" stop="20180521163500 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Baywatch: S.O.S. Malibu</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20180521163500 -0300" stop="20180521181500 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Convidados Sem Honra</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20180521181500 -0300" stop="20180521200500 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Assassino a Preço Fixo 2: A Ressurreição</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180521200500 -0300" stop="20180521220000 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">O Livro de Henry</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180521220000 -0300" stop="20180521235500 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">A Última Palavra</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20180521235500 -0300" stop="20180522020500 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">O Bebê de Bridget Jones</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20180522020500 -0300" stop="20180522042000 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Um Mergulho no Passado</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180522042000 -0300" stop="20180522060500 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Corrida Mortal 2050</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180522060500 -0300" stop="20180522075500 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Comboio Furioso</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180522075500 -0300" stop="20180522100000 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Acampamento de Meninas</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20180522100000 -0300" stop="20180522115000 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Uma Doce Disputa</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20180522115000 -0300" stop="20180522133500 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Em Cima do Muro</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20180522133500 -0300" stop="20180522153500 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Amor em Tempos de Guerra</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180522153500 -0300" stop="20180522174500 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Capitão Fantástico</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180522174500 -0300" stop="20180522194500 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Meu Amigo, o Dragão</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20180522194500 -0300" stop="20180522220000 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Mais Forte Que o Mundo - A História de José Aldo</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180522220000 -0300" stop="20180523002000 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Velozes e Furiosos 8</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180523002000 -0300" stop="20180523020000 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Papai Noel às Avessas 2</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20180523020000 -0300" stop="20180523041000 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Warcraft: O Primeiro Encontro de Dois Mundos</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20180523041000 -0300" stop="20180523055000 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Sedução e Vingança</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180523055000 -0300" stop="20180523080500 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Operação Mekong</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180523080500 -0300" stop="20180523100000 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">O Pequeno Príncipe</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20180523100000 -0300" stop="20180523120500 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Vida Dupla</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20180523120500 -0300" stop="20180523141500 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">O Bebê de Bridget Jones</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20180523141500 -0300" stop="20180523161500 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">A Última Palavra</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20180523161500 -0300" stop="20180523180500 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">O Poderoso Chefinho</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20180523180500 -0300" stop="20180523200500 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Monster Trucks</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20180523200500 -0300" stop="20180523220000 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Assassin's Creed</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180523220000 -0300" stop="20180523235500 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Sexo, Drogas e Jingle Bells</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20180523235500 -0300" stop="20180524014000 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Quatro Vidas de um Cachorro</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20180524014000 -0300" stop="20180524034000 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Terra Estranha</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180524034000 -0300" stop="20180524055000 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Capitão Fantástico</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180524055000 -0300" stop="20180524072000 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Fobia</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180524072000 -0300" stop="20180524085500 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">A Magia do Natal</title>
+    <category lang="pt">Filme/Romance</category>
+  </programme>
+  <programme start="20180524085500 -0300" stop="20180524105000 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">O Halloween de Madea</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20180524105000 -0300" stop="20180524124000 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Que Família É Essa?</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20180524124000 -0300" stop="20180524143000 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Meu Amigo, o Dragão</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20180524143000 -0300" stop="20180524164500 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">La La Land: Cantando Estações</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180524164500 -0300" stop="20180524184500 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Aventura Perigosa</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180524184500 -0300" stop="20180524202000 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Michelle e Obama</title>
+    <category lang="pt">Filme/Romance</category>
+  </programme>
+  <programme start="20180524202000 -0300" stop="20180524220000 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Pets - A Vida Secreta dos Bichos</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20180524220000 -0300" stop="20180525002000 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Rogue One: Uma História Star Wars</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180525002000 -0300" stop="20180525021500 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">A Múmia</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20180525021500 -0300" stop="20180525042500 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Christine: Uma História Verdadeira</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180525042500 -0300" stop="20180525060000 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Kicks: Defendendo o Que é Seu</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180525060000 -0300" stop="20180525074500 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Liberdade Incondicional</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180525074500 -0300" stop="20180525092500 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Deixados Para Trás - A Nova Geração</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20180525092500 -0300" stop="20180525112500 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Amor em Tempos de Guerra</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180525112500 -0300" stop="20180525130500 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Drone</title>
+    <category lang="pt">Filme/Terror</category>
+  </programme>
+  <programme start="20180525130500 -0300" stop="20180525152000 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Mais Forte Que o Mundo - A História de José Aldo</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180525152000 -0300" stop="20180525171500 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Sexo, Drogas e Jingle Bells</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20180525171500 -0300" stop="20180525194000 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Velozes e Furiosos 8</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180525194000 -0300" stop="20180525220000 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Truque De Mestre: O 2º Ato</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180525220000 -0300" stop="20180526001500 -0300" channel="TC PREMIUM FULL HD">
+    <title lang="pt">Um Homem Entre Gigantes</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180518165000 -0300" stop="20180518183000 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">Carga Preciosa</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180518183000 -0300" stop="20180518203000 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">Eu Sou o Número Quatro</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180518203000 -0300" stop="20180518220000 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">Com as Próprias Mãos</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180518220000 -0300" stop="20180519001500 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">Jason Bourne</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180519001500 -0300" stop="20180519022500 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">Tropa de Elite 2 - O Inimigo Agora é Outro</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180519022500 -0300" stop="20180519040500 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">Se Deus Vier Que Venha Armado</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180519040500 -0300" stop="20180519054000 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">A Minha Primeira Vez</title>
+    <category lang="pt">Filme/Erótico</category>
+  </programme>
+  <programme start="20180519054000 -0300" stop="20180519074000 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">Caso 39</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180519074000 -0300" stop="20180519100500 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">O Despertar da Lenda</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180519100500 -0300" stop="20180519120500 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">Missão: Marte</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20180519120500 -0300" stop="20180519135500 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">Os Mercenários 2</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180519135500 -0300" stop="20180519155500 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">G.I. Joe: Retaliação</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180519155500 -0300" stop="20180519175000 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">Planeta dos Macacos: A Origem</title>
+    <category lang="pt">Filme/Ficção</category>
+  </programme>
+  <programme start="20180519175000 -0300" stop="20180519194000 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">Assassinos de Aluguel</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180519194000 -0300" stop="20180519220000 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">Prometheus</title>
+    <category lang="pt">Filme/Ficção</category>
+  </programme>
+  <programme start="20180519220000 -0300" stop="20180520002000 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">Battleship - A Batalha dos Mares</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20180520002000 -0300" stop="20180520020000 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">13º Distrito</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180520020000 -0300" stop="20180520041000 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">Garganta do Diabo</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20180520041000 -0300" stop="20180520062000 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">Instinto Secreto</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20180520062000 -0300" stop="20180520082000 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">Eu Sou o Número Quatro</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180520082000 -0300" stop="20180520102000 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">Alien 3</title>
+    <category lang="pt">Filme/Ficção</category>
+  </programme>
+  <programme start="20180520102000 -0300" stop="20180520122000 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">Deixe-Me Entrar</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20180520122000 -0300" stop="20180520134500 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">Com as Próprias Mãos</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180520134500 -0300" stop="20180520155000 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">Tropa de Elite 2 - O Inimigo Agora é Outro</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180520155000 -0300" stop="20180520174000 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">Mama</title>
+    <category lang="pt">Filme/Terror</category>
+  </programme>
+  <programme start="20180520174000 -0300" stop="20180520200000 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">Jason Bourne</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180520200000 -0300" stop="20180520220000 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">A Liga Extraordinária</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20180520220000 -0300" stop="20180521000500 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">Esquadrão Classe A</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180521000500 -0300" stop="20180521023500 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">A Outra Face</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180521023500 -0300" stop="20180521041500 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">O Príncipe</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180521041500 -0300" stop="20180521060500 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">Duplo Impacto</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180521060500 -0300" stop="20180521075500 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">Velocidade Terminal</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180521075500 -0300" stop="20180521094500 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">Os Mercenários 2</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180521094500 -0300" stop="20180521120000 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">Prometheus</title>
+    <category lang="pt">Filme/Ficção</category>
+  </programme>
+  <programme start="20180521120000 -0300" stop="20180521134000 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">13º Distrito</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180521134000 -0300" stop="20180521152500 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">Confidence - O Golpe Perfeito</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20180521152500 -0300" stop="20180521174000 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">Battleship - A Batalha dos Mares</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20180521174000 -0300" stop="20180521194000 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">Sequestro na Ilha</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20180521194000 -0300" stop="20180521220000 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">X-Men 2</title>
+    <category lang="pt">Filme/Ficção</category>
+  </programme>
+  <programme start="20180521220000 -0300" stop="20180522000000 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">Mergulho Radical</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180522000000 -0300" stop="20180522015000 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">Cem Anos de Perdão</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20180522015000 -0300" stop="20180522034000 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">À Beira do Abismo</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20180522034000 -0300" stop="20180522052000 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">Minha Esposa Aventureira</title>
+    <category lang="pt">Filme/Erótico</category>
+  </programme>
+  <programme start="20180522052000 -0300" stop="20180522071500 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">Sangue Jovem</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180522071500 -0300" stop="20180522090000 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">O Último Rei</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180522090000 -0300" stop="20180522104500 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">O Último Golpe</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180522104500 -0300" stop="20180522123000 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">Assassinos de Aluguel</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180522123000 -0300" stop="20180522141000 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">Skyline - A Invasão</title>
+    <category lang="pt">Filme/Ficção</category>
+  </programme>
+  <programme start="20180522141000 -0300" stop="20180522160500 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">A Liga Extraordinária</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20180522160500 -0300" stop="20180522181000 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">Esquadrão Classe A</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180522181000 -0300" stop="20180522201000 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">Vidas Partidas</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180522201000 -0300" stop="20180522220000 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">Quarteto Fantástico</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20180522220000 -0300" stop="20180523003500 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">007 - Cassino Royale</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180523003500 -0300" stop="20180523023000 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">Terra Violenta</title>
+    <category lang="pt">Filme/Western</category>
+  </programme>
+  <programme start="20180523023000 -0300" stop="20180523041000 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">Tekken 2: A Vingança de Kazuya</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180523041000 -0300" stop="20180523054000 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">Máquina do Tempo do Prazer</title>
+    <category lang="pt">Filme/Erótico</category>
+  </programme>
+  <programme start="20180523054000 -0300" stop="20180523074000 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">Deixe-Me Entrar</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20180523074000 -0300" stop="20180523094500 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">O Negociador</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180523094500 -0300" stop="20180523115500 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">Mojin - A Lenda Perdida</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180523115500 -0300" stop="20180523134500 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">Solomon Kane - O Caçador de Demônios</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20180523134500 -0300" stop="20180523160500 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">X-Men 2</title>
+    <category lang="pt">Filme/Ficção</category>
+  </programme>
+  <programme start="20180523160500 -0300" stop="20180523180500 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">Mergulho Radical</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180523180500 -0300" stop="20180523200000 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">A Negociação</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180523200000 -0300" stop="20180523220000 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">Através da Sombra</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20180523220000 -0300" stop="20180523235000 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">Linha de Frente</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180523235000 -0300" stop="20180524022000 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">Vingadores: Era de Ultron</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180524022000 -0300" stop="20180524041000 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">Quarteto Fantástico</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20180524041000 -0300" stop="20180524060000 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">Encruzilhada</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20180524060000 -0300" stop="20180524075000 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">O Homem Mais Procurado do Mundo</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180524075000 -0300" stop="20180524093500 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">Confidence - O Golpe Perfeito</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20180524093500 -0300" stop="20180524112500 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">Cem Anos de Perdão</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20180524112500 -0300" stop="20180524132500 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">Sequestro na Ilha</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20180524132500 -0300" stop="20180524160000 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">007 - Cassino Royale</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180524160000 -0300" stop="20180524180000 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">Quatro Irmãos</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180524180000 -0300" stop="20180524193000 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">O Abajour</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180524193000 -0300" stop="20180524220000 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">Velozes &amp; Furiosos 5 - Operação Rio</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180524220000 -0300" stop="20180524233500 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">Pânico na Floresta</title>
+    <category lang="pt">Filme/Terror</category>
+  </programme>
+  <programme start="20180524233500 -0300" stop="20180525011500 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">O Grande Roubo</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180525011500 -0300" stop="20180525030000 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">Skyline - A Invasão</title>
+    <category lang="pt">Filme/Ficção</category>
+  </programme>
+  <programme start="20180525030000 -0300" stop="20180525042000 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">Luxúria: Troca de Esposas</title>
+    <category lang="pt">Filme/Erótico</category>
+  </programme>
+  <programme start="20180525042000 -0300" stop="20180525063500 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">Mojin - A Lenda Perdida</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180525063500 -0300" stop="20180525084500 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">A Cilada</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180525084500 -0300" stop="20180525110500 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">Laços de Sangue</title>
+    <category lang="pt">Filme/Policial</category>
+  </programme>
+  <programme start="20180525110500 -0300" stop="20180525130000 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">Sem Saída</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180525130000 -0300" stop="20180525150000 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">O Exterminador do Futuro</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180525150000 -0300" stop="20180525173000 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">Vingadores: Era de Ultron</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180525173000 -0300" stop="20180525200000 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">O Hobbit: A Batalha dos Cinco Exércitos</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20180525200000 -0300" stop="20180525220000 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">As Tartarugas Ninja: Fora das Sombras</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20180525220000 -0300" stop="20180526000000 -0300" channel="TC ACTION FULL HD">
+    <title lang="pt">A Garota no Trem</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20180518181000 -0300" stop="20180518201000 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">O Fim e os Meios</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180518201000 -0300" stop="20180518220000 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">S.O.S Tem um Louco Solto no Espaço</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20180518220000 -0300" stop="20180519000000 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">A Última Festa de Solteiro</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20180519000000 -0300" stop="20180519020000 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">O Mundo Fantástico de Oz</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20180519020000 -0300" stop="20180519035500 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">O Estranho que Nós Amamos</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180519035500 -0300" stop="20180519054500 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">Fargo - Uma Comédia de Erros</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180519054500 -0300" stop="20180519074000 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">Um Brinde à Vida</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180519074000 -0300" stop="20180519092500 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">Convite a um Pistoleiro</title>
+    <category lang="pt">Filme/Western</category>
+  </programme>
+  <programme start="20180519092500 -0300" stop="20180519112500 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">Top Gun - Ases Indomáveis</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180519112500 -0300" stop="20180519131500 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">Afterimage</title>
+    <category lang="pt">Filme/Biografia</category>
+  </programme>
+  <programme start="20180519131500 -0300" stop="20180519145500 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">Glória Feita de Sangue</title>
+    <category lang="pt">Filme/Guerra</category>
+  </programme>
+  <programme start="20180519145500 -0300" stop="20180519171000 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">Michael Kohlhaas - Justiça e Honra</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180519171000 -0300" stop="20180519194000 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">Romeu e Julieta (1968)</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180519194000 -0300" stop="20180519220000 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">Ponto Final - Match Point</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180519220000 -0300" stop="20180519234500 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">Morangos Silvestres</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180519234500 -0300" stop="20180520015000 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">Os Cavaleiros Brancos</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180520015000 -0300" stop="20180520035500 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">Alien - O Oitavo Passageiro</title>
+    <category lang="pt">Filme/Ficção</category>
+  </programme>
+  <programme start="20180520035500 -0300" stop="20180520060000 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">No Topo do Poder</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180520060000 -0300" stop="20180520080500 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">Matador de Aluguel</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20180520080500 -0300" stop="20180520100500 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">O Mundo Fantástico de Oz</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20180520100500 -0300" stop="20180520120500 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">O Enigma da Pirâmide</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20180520120500 -0300" stop="20180520135500 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">Deserto em Fogo</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20180520135500 -0300" stop="20180520155500 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">Infâmia</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180520155500 -0300" stop="20180520174500 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">Robocop - O Policial do Futuro</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180520174500 -0300" stop="20180520201000 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">Sete Homens e um Destino</title>
+    <category lang="pt">Filme/Western</category>
+  </programme>
+  <programme start="20180520201000 -0300" stop="20180520220000 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">A Volta dos Sete Magníficos</title>
+    <category lang="pt">Filme/Western</category>
+  </programme>
+  <programme start="20180520220000 -0300" stop="20180521000000 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">A Revolta dos Sete Homens</title>
+    <category lang="pt">Filme/Western</category>
+  </programme>
+  <programme start="20180521000000 -0300" stop="20180521022500 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">O Bebê de Rosemary</title>
+    <category lang="pt">Filme/Terror</category>
+  </programme>
+  <programme start="20180521022500 -0300" stop="20180521043000 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">A Caça</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180521043000 -0300" stop="20180521063000 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">Uma Jornada Para Toda a Vida</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20180521063000 -0300" stop="20180521082000 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">Os Sete Suspeitos</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20180521082000 -0300" stop="20180521103000 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">Extra! Extra!</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180521103000 -0300" stop="20180521123500 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">Amor Eterno</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180521123500 -0300" stop="20180521142500 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">S.O.S Tem um Louco Solto no Espaço</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20180521142500 -0300" stop="20180521164000 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">Ponto Final - Match Point</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180521164000 -0300" stop="20180521183500 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">A Última Festa de Solteiro</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20180521183500 -0300" stop="20180521201500 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">Punhal</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180521201500 -0300" stop="20180521220000 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">O Pistoleiro Marcado</title>
+    <category lang="pt">Filme/Western</category>
+  </programme>
+  <programme start="20180521220000 -0300" stop="20180521235000 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">Por um Punhado de Dólares</title>
+    <category lang="pt">Filme/Western</category>
+  </programme>
+  <programme start="20180521235000 -0300" stop="20180522012500 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">Homens sem Lei</title>
+    <category lang="pt">Filme/Western</category>
+  </programme>
+  <programme start="20180522012500 -0300" stop="20180522035000 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">A Conexão Francesa</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180522035000 -0300" stop="20180522055000 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">Os Rivais</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20180522055000 -0300" stop="20180522075000 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">Top Gun - Ases Indomáveis</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180522075000 -0300" stop="20180522101000 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">Marnie, Confissões de Uma Ladra</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20180522101000 -0300" stop="20180522121500 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">A Caça</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180522121500 -0300" stop="20180522143500 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">Sansão e Dalila</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180522143500 -0300" stop="20180522161500 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">Odisseia no Oeste</title>
+    <category lang="pt">Filme/Western</category>
+  </programme>
+  <programme start="20180522161500 -0300" stop="20180522180500 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">Como Agarrar um Milionário</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20180522180500 -0300" stop="20180522195000 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">Morangos Silvestres</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180522195000 -0300" stop="20180522220000 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">O Que Nos Liga</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180522220000 -0300" stop="20180523000000 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">The Beatles: Eight Days A Week - The Touring Years</title>
+    <category lang="pt">Filme/Documentário</category>
+  </programme>
+  <programme start="20180523000000 -0300" stop="20180523022000 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">Thelma &amp; Louise</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180523022000 -0300" stop="20180523042500 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">Bonequinha de Luxo</title>
+    <category lang="pt">Filme/Romance</category>
+  </programme>
+  <programme start="20180523042500 -0300" stop="20180523063000 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">Corações Famintos</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180523063000 -0300" stop="20180523082500 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">Uma Relação Delicada</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180523082500 -0300" stop="20180523103000 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">O Papai Playboy</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20180523103000 -0300" stop="20180523123000 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">Os Rivais</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20180523123000 -0300" stop="20180523142500 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">Cosmópolis</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180523142500 -0300" stop="20180523161500 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">Por um Punhado de Dólares</title>
+    <category lang="pt">Filme/Western</category>
+  </programme>
+  <programme start="20180523161500 -0300" stop="20180523182000 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">Frenesi</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20180523182000 -0300" stop="20180523201000 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">Quem Vê Cara Não Vê Coração</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20180523201000 -0300" stop="20180523220000 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">Se Eu Fosse Minha Mãe</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20180523220000 -0300" stop="20180524004500 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">Amor, Sublime Amor</title>
+    <category lang="pt">Filme/Musical</category>
+  </programme>
+  <programme start="20180524004500 -0300" stop="20180524025000 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">A Revista de Carlitos</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20180524025000 -0300" stop="20180524044500 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">Uma Cilada Para Roger Rabbit</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20180524044500 -0300" stop="20180524065000 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">Casa Grande</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180524065000 -0300" stop="20180524090000 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">O Passado não Perdoa</title>
+    <category lang="pt">Filme/Western</category>
+  </programme>
+  <programme start="20180524090000 -0300" stop="20180524104000 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">Punhal</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180524104000 -0300" stop="20180524124500 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">Bonequinha de Luxo</title>
+    <category lang="pt">Filme/Romance</category>
+  </programme>
+  <programme start="20180524124500 -0300" stop="20180524142500 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">O Pistoleiro Marcado</title>
+    <category lang="pt">Filme/Western</category>
+  </programme>
+  <programme start="20180524142500 -0300" stop="20180524164500 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">Thelma &amp; Louise</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180524164500 -0300" stop="20180524182000 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">Step</title>
+    <category lang="pt">Filme/Documentário</category>
+  </programme>
+  <programme start="20180524182000 -0300" stop="20180524200500 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">A Volta da Montanha Enfeitiçada</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20180524200500 -0300" stop="20180524220000 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">Redemoinho</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180524220000 -0300" stop="20180525002500 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">O Conto dos Contos</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20180525002500 -0300" stop="20180525023000 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">Ninfomaníaca - Volume I</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180525023000 -0300" stop="20180525042000 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">Cocktail</title>
+    <category lang="pt">Filme/Romance</category>
+  </programme>
+  <programme start="20180525042000 -0300" stop="20180525061000 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">Anticristo</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20180525061000 -0300" stop="20180525081000 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">Mia Madre</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180525081000 -0300" stop="20180525100500 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">Uma Cilada Para Roger Rabbit</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20180525100500 -0300" stop="20180525115500 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">Se Eu Fosse Minha Mãe</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20180525115500 -0300" stop="20180525143500 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">Amor, Sublime Amor</title>
+    <category lang="pt">Filme/Musical</category>
+  </programme>
+  <programme start="20180525143500 -0300" stop="20180525164500 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">A Revista de Carlitos</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20180525164500 -0300" stop="20180525184000 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">As Memórias de Marnie</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20180525184000 -0300" stop="20180525201000 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">Rio Cigano</title>
+    <category lang="pt">Filme/Ficção</category>
+  </programme>
+  <programme start="20180525201000 -0300" stop="20180525220000 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">Curso de Verão</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20180525220000 -0300" stop="20180525234500 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">Te Pego Lá Fora</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20180525234500 -0300" stop="20180526013000 -0300" channel="TC CULT FULL HD">
+    <title lang="pt">Namorada de Aluguel</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+</tv>
